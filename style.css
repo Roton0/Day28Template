@@ -1,0 +1,64 @@
+    @media (max-width:1400px) {
+        .banner_img {
+            padding-left: 0 !important;
+        }
+    }
+    
+    @media (max-width:1200px) {
+        .about_img {
+            margin-top: 80px !important;
+        }
+        .about_p {
+            width: 100% !important;
+        }
+        .counting_section {
+            padding: 80px !important;
+        }
+    }
+    
+    @media (max-width:992px) {
+        img {
+            max-width: 100%;
+        }
+        .banner_section {
+            margin-top: 0 !important;
+        }
+        .about_text p,
+        .about_text h5 {
+            margin-bottom: 5px !important;
+        }
+        .counting_Content {
+            padding: 0 !important;
+        }
+        .counting_section {
+            padding: 50px !important;
+        }
+        .service_h5 h5 {
+            margin-bottom: 25px !important;
+        }
+    }
+    
+    @media (max-width:768px) {
+        .from_imfo {
+            margin-top: 0px !important;
+            text-align: center !important;
+        }
+    }
+    
+    @media (max-width:576px) {
+        .banner_img,
+        .about_img,
+        .team_member {
+            width: 80% !important;
+            margin: auto !important;
+        }
+        .team_member {
+            margin-top: 25% !important;
+        }
+    }
+    
+    @media (max-width:576px) {
+        .service_item {
+            width: 80% !important;
+        }
+    }
